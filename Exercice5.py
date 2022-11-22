@@ -3,3 +3,4 @@ if: nombre positif
 else: nombre négatif
     print("Entrez un nombre entier :")
 
+;
