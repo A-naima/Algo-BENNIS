@@ -1,5 +1,5 @@
-if: nombre positif
-    pass
-else: nombre négatif
-    print("Entrez un nombre entier :")
+if x >0 print("Le nombre est positif.")
+    else x <0 print("Le nombre est négatif.")
+
+ x =int(input("Entrez un nombre : "))
 
