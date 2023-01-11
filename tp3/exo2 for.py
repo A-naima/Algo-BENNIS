@@ -1,6 +1,5 @@
 from time import*
 n = int(input("Entrez un nombre : "))
-while n >= 0:
-    print(n)
-    n -= 1
+for i in range(n, -1, -1):
+    print(i)
     sleep(0.2)
